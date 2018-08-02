@@ -1,10 +1,12 @@
 # APPLS
 Applied Python Programming for Life Scientists
 
-This course is intended for life scientists without any prior knowledge. The objective is to provide a sufficient amount of knowledge about Python to solve small problems by writing simple scripts. Feel free to re-use my slides and please report any mistakes that you discover.
+This course is intended for life scientists without any prior knowledge. The objective is to provide a sufficient amount of knowledge about Python to solve small problems by writing simple scripts. Feel free to re-use my slides and please report any mistakes that you discover. I am planning to provide an updated version in the future.
+Please read the wiki for further information.
 
 
-The last part contains examples from my own published research:
+
+The last part contains examples from my published research:
 
 Pucker, B., Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS‑ONE 11:e0164321.
 
