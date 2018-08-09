@@ -9,6 +9,8 @@ Please read the wiki for further information.
 The last part contains examples from my published research:
 
 Pucker, B., Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS‑ONE 11:e0164321.
+[full text](https://doi.org/10.1371/journal.pone.0164321)
+
 
 
 Pucker, B., Holtgräwe, D., & Weisshaar, B. (2017). Consideration of non-canonical splice sites improves gene prediction on the Arabidopsis thaliana Niederzenz-1 genome sequence. BMC Research Notes, 10, 667. doi:10.1186/s13104-017-2985-y
