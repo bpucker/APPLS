@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/143102045.svg)](https://zenodo.org/badge/latestdoi/143102045)
+
+
 # APPLS
 Applied Python Programming for Life Scientists
 
