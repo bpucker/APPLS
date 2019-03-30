@@ -1,3 +1,9 @@
+### Boas Pucker ###
+### bpucker@cebitec.uni-bielefeld.de ###
+### https://github.com/bpucker/APPLS ###
+### https://www.cebitec.uni-bielefeld.de/~bpucker ###
+
+
 from flask import render_template, Flask
 import re, pdfkit
 

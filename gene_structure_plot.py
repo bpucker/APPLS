@@ -1,7 +1,7 @@
 ### Boas Pucker ###
 ### bpucker@cebitec.uni-bielefeld.de ###
-
-
+### https://github.com/bpucker/APPLS ###
+### https://www.cebitec.uni-bielefeld.de/~bpucker ###
 
 __usage__ = """
 			python gene_structure_plot.py\n

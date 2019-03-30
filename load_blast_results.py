@@ -1,3 +1,8 @@
+### Boas Pucker ###
+### bpucker@cebitec.uni-bielefeld.de ###
+### https://github.com/bpucker/APPLS ###
+### https://www.cebitec.uni-bielefeld.de/~bpucker ###
+
 def load_BLAST_results( input_file ):
 	"""! @brief load all BLAST results from file """
 	

@@ -1,3 +1,8 @@
+### Boas Pucker ###
+### bpucker@cebitec.uni-bielefeld.de ###
+### https://github.com/bpucker/APPLS ###
+### https://www.cebitec.uni-bielefeld.de/~bpucker ###
+
 import matplotlib.pyplot as plt
 import numpy as np
 
