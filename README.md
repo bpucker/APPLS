@@ -28,7 +28,7 @@ Pucker, B., Holtgraewe, D., Stadermann, K. B., Frey, K., Huettel, B., Reinhardt,
 
 Additional courses are listed here:
 
-https://www.cebitec.uni-bielefeld.de/~bpucker
+https://www.cebitec.uni-bielefeld.de/~bpucker#teaching
 
 and here:
 
