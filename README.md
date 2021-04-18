@@ -7,6 +7,10 @@ Applied Python Programming for Life Scientists
 This course is intended for life scientists without any prior knowledge about bioinformatics/programming. The objective is to provide a sufficient amount of knowledge about Python to solve small problems by writing simple scripts. Feel free to re-use our slides and please report any mistakes that you discover. We are planning to provide an updated version in the future.
 
 
+<a href="https://github.com/bpucker/APPLS">
+<img alt="Flavonoid biosynthesis pathway overview" src="https://github.com/bpucker/figures/blob/main/Python_course.png" width="50%" height="50%">
+</a>  
+
 
 The last part contains examples from my published research:
 
